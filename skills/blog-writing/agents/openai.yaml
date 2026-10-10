@@ -1,0 +1,4 @@
+interface:
+  display_name: "博客写作"
+  short_description: "把主题整理成易读、可搜索、可发布的中文 Markdown 博客文章"
+  default_prompt: "使用 $blog-writing 帮我把这个主题写成结构清晰、易读、可搜索的博客文章。"
